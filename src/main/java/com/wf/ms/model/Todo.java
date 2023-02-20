@@ -69,6 +69,10 @@ public class Todo {
 	public void setDone(boolean done) {
 		this.done = done;
 	}
+	
+	public Todo() {
+		// TODO
+	}
 
 	public Todo(int id, String user, String des, Date targetDate, boolean done) {
 		super();
