@@ -71,7 +71,6 @@ public class Todo {
 	}
 	
 	public Todo() {
-		// TODO
 		id = 1;
 		user = "Anil";
 		des = "Testing now";
